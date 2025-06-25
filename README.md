@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BengaliTyger
-- 👀 I’m interested in Medical Technology and algorithms
-- 🌱 I’m currently learning Biomedical Engineering
-- 💞️ I’m looking to collaborate on anything new, innovative, disruptive
-- 📫 How to reach me: bengalitigre@gmail.com
+- 👀 I’m interested in Medical Technology and application of Machine Learning algorithms to Imaging and Biomarkers
+- 🌱 I’ve completed a graduate degree in Biomedical Engineering
+- 💞️ I’m looking to collaborate on anything new, innovative, disruptive in medical therapy
+- 📫 How to reach me: bengalitigre@gmail.com (personal)
 
 <!---
 BengaliTyger/BengaliTyger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
